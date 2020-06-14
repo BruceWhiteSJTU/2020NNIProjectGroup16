@@ -56,6 +56,7 @@ Snapshots:
 ![trial_snapshot](results/snapshots/trial6.png)
 ![trial_snapshot](results/snapshots/trial7.png)
 
+
 [experiment_json]: results/logfiles/experiment.json
 [dispatcher_log]: results/logfiles/dispatcher.log
 [nnimanager_log]: results/logfiles/nnimanager.log
